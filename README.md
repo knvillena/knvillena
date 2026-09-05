@@ -2,11 +2,10 @@
 
 ## About Me 🚀
 
-I'm a full-stack web developer specializing in Laravel, PHP, TypeScript, and React. I love building efficient, scalable, and user-friendly web applications — usually large, data-heavy client systems with complex workflows and long lifespans.
+I'm a full-stack web developer specializing in Laravel, PHP, TypeScript, and React. I love building efficient, scalable, and user-friendly web applications — usually large, data-heavy client systems with complex workflows and long lifespans. The parts I enjoy most: turning messy real-world processes into clean, sensible workflows, and making big datasets feel fast.
 
 - 🔭 I’m currently working on privately commissioned projects.
 - 🌱 I’m currently sharpening my Rust & Go — I use them for performance-critical services like high-volume Excel parsing and PDF rendering.
-- 🤔 I’m looking for help with Rust.
 
 ## Projects 🛠️
 
